@@ -1,0 +1,53 @@
+.principal{
+background: red;
+height: 50%;
+}
+.espacio{
+height: 90%;
+width: 90%;
+background: yellow;
+margin: auto;
+border-radius: 30px;
+}
+.secundario{
+background: black;
+height: 50%;
+}
+.dias{
+
+	float: left;
+	height: 90%;
+	width: 14.28%;
+	background: #05AFF2;
+	box-sizing: border-box;
+	border-left: 10px black solid;
+	border-right: 10px black solid;
+	border-radius: 30px;
+	margin-top: 20px;
+}
+.weather{
+
+height: 35%;
+width: 90%;
+
+}
+
+.front{
+
+float: right;
+height: 75%;
+width: 50%;
+
+}
+
+.dia{
+	text-align: center;
+	margin: auto;
+	font-family: "Comic Sans";
+}
+
+.alinia{
+
+	font-family: "Homer Simpson", cursive;
+	margin-left: 10px;
+}
